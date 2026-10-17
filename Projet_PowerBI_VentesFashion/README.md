@@ -43,7 +43,7 @@ Power BI Desktop (Power Query, modélisation, DAX) et PostgreSQL pour les requê
 
 ## Modèle de données
 
-![Vue Modèle](images/modele.png)
+![Vue Modèle](Images/modele.png)
 
 **Relations principales** (toutes en un-à-plusieurs) :
 
@@ -108,22 +108,22 @@ Niveau de remise = IF ( Campagnes_promotionnelles[Discount] < 0.2, "Remise faibl
 ## Pages du rapport
 
 ### 1. Suivi des ventes
-![Page 1](images/page1.png)
+![Page 1](Images/page1.png)
 
 Quatre indicateurs (quantités, chiffre d’affaires, panier moyen, nombre de ventes), une courbe des quantités par semaine et par pays, des filtres pays et canal.
 
 ### 2. Clients
-![Page 2](images/page2.png)
+![Page 2](Images/page2.png)
 
 Quantités et panier moyen par tranche d’âge, dans deux graphiques côte à côte (ce sont deux unités différentes, qu’il ne faut pas empiler).
 
 ### 3. Promotions
-![Page 3](images/page3.png)
+![Page 3](Images/page3.png)
 
 Quantité moyenne vendue par jour par campagne et par niveau de remise, avec un bandeau de prudence.
 
 ### 4. Produits
-![Page 4](images/page4.png)
+![Page 4](Images/page4.png)
 
 Quantités par catégorie et par canal de vente, puis chiffre d’affaires et quantités par catégorie.
 
