@@ -170,4 +170,4 @@ Ces constats sont **indicatifs** (voir les limites).
 
 - `Portfolio_PowerBI_ventes.pbix` : Fichier PowerBi
 - `Portfolio_PowerBI_ventes.pdf` : Fichier PDF
-- `images/` : captures du modèle et des quatre pages
+- `Images/` : captures du modèle et des quatre pages
