@@ -165,7 +165,7 @@ Ces résultats concordent avec l’analyse exploratoire que j’avais menée en 
 
 ## Fichiers
 
-- [`projet_powerbi_dashboard_campagnes.pbix`](projet_powerbi_dashboard_campagnes.pbix) : fichier Power BI
+- [`projet_powerbi_dashboard_campagnes.pbix`](projet_powerbi_dashboard_campagnes) : fichier Power BI
 - Exports PDF du dashboard:
   - [`dashboard_campagne.pdf`](dashboard_campagne.pdf) : sans sélection d’objectif
   - [`dashboard_campagnes_visibilite.pdf`](dashboard_campagnes_visibilite.pdf) : famille Visibilité
