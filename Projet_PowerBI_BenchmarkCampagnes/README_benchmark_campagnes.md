@@ -165,9 +165,9 @@ Ces résultats concordent avec l’analyse exploratoire que j’avais menée en 
 
 ## Fichiers
 
-- [`benchmark_campagnes.pbix`](benchmark_campagnes.pbix) : fichier Power BI (**À COMPLÉTER : nom exact du fichier**)
-- Exports PDF du dashboard (**À COMPLÉTER : noms exacts des fichiers**) :
-  - [`benchmark_campagnes_sans_selection.pdf`](benchmark_campagnes_sans_selection.pdf) : sans sélection d’objectif
-  - [`benchmark_campagnes_visibilite.pdf`](benchmark_campagnes_visibilite.pdf) : famille Visibilité
-  - [`benchmark_campagnes_performance.pdf`](benchmark_campagnes_performance.pdf) : famille Performance
+- [`projet_powerbi_dashboard_campagnes.pbix`](projet_powerbi_dashboard_campagnes.pbix) : fichier Power BI
+- Exports PDF du dashboard:
+  - [`dashboard_campagne.pdf`](dashboard_campagne.pdf) : sans sélection d’objectif
+  - [`dashboard_campagnes_visibilite.pdf`](dashboard_campagnes_visibilite.pdf) : famille Visibilité
+  - [`dashboard_campagnes_perf.pdf`](dashboard_campagnes_perf.pdf) : famille Performance
 - `images/` : captures du dashboard et du modèle
