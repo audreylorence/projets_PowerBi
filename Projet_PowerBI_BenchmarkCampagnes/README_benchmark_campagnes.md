@@ -50,7 +50,7 @@ Power BI Desktop (Power Query, modélisation, DAX).
 ## Préparation des données (Power Query)
 
 - `campagnes_brut` : lecture du CSV complet. **Chargement désactivé** : la requête sert de source et n’est pas chargée dans le modèle.
-- `Campagnes` : créée **par référence** à `campagnes_brut`. Seules les colonnes utiles sont conservées (étape « Choisir les colonnes » : **À COMPLÉTER : liste**).
+- `Campagnes` : créée **par référence** à `campagnes_brut`. Seules les colonnes utiles sont conservées (étape « Choisir les colonnes »).
 - Dates : `start_date` est au format jour/mois/année. La conversion utilise les paramètres régionaux français, pour éviter qu’un 6 mars soit lu comme un 3 juin.
 - `Objectifs` : petite table créée dans Power Query (5 lignes) qui associe chaque objectif à sa famille et à son KPI principal.
 
