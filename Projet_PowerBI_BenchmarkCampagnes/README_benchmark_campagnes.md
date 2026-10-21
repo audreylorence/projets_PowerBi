@@ -4,7 +4,7 @@ Dashboard de benchmarks pensé pour des commerciaux : à partir du profil d’un
 
 > **Jeu de données synthétique** (10 000 campagnes fictives). Les chiffres sont illustratifs : le projet démontre une méthode, pas des résultats de marché.
 >
-> Source du jeu de données : https://www.kaggle.com/datasets/juniornsa/digital-advertising-campaign-performance-dataset
+> Source du jeu de données :['Lien Kaggle'] (https://www.kaggle.com/datasets/juniornsa/digital-advertising-campaign-performance-dataset)
 
 ![Dashboard](images/dashboard.png)
 
